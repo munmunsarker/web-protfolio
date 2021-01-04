@@ -1,0 +1,85 @@
+
+body{
+    margin: 0px;
+    font-family: 'Roboto', sans-serif;}
+
+
+h1{
+ font-weight: 700;   
+
+}
+.highlight{
+color: crimson;
+
+}
+.half-width{
+
+width: 40%;
+float: left;
+margin-left: 5%;
+padding: 2%;
+
+}
+img{
+width: 100%;
+}
+
+
+section {
+
+    height:600px;
+    width: 100%;}
+
+    .main-head{
+
+
+        background-color:rgb(248, 188, 188);
+    }
+    .link-button{
+
+
+        text-decoration: none;
+        background-color: red;
+        padding: 10px 20px;
+        border-radius: 5px;
+        color: white;
+        font-weight: 800;
+    }
+    .first-head{
+
+        background-color:rebeccapurple;
+
+    }
+    .single-experience{
+box-shadow: 10px 10px 40px gray;
+
+
+    }
+    .second-head{
+
+
+        background-image: url("ment\project\web-protfolio\images\top-banner.png");
+    }
+    #full-stack {
+
+border-left: 2px solid red;
+border-image: linear(red,blue);
+border-image-slice: 1px;
+
+
+    }
+    #half-stack {
+
+        border-left: 2px solid red;
+        border-image: linear(red,blue);
+        border-image-slice: 1px;
+
+
+    }
+    footer{
+
+
+        color:red;
+     font-weight: 800px;
+        text-align: center;
+    }
